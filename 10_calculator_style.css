@@ -1,0 +1,25 @@
+body{
+  background-color: black;
+}
+.css-button{
+  width: 55px;
+  height: 55px;
+  border-radius: 50px;
+  border: none;
+  background-color: rgb(42, 41, 41);
+  font-size: 25px;
+  color: white;
+  margin: 5px;
+  cursor: pointer;
+}
+.clear-btn{
+  font-size: 15px;
+}
+.symbol-btn{
+  background-color: orange;
+}
+p{
+  margin: 10px;
+  color: white;
+  font-size: 30px;
+}
